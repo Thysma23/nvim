@@ -1,0 +1,20 @@
+add spotify integration
+add discord integration
+implement a terminal (<leader>tt, <leader>tv, <leader>th)
+fix copilot inline et check pour buffers
+fix config ?
+fix quit icon
+fix lsp loading to lualine ?
+desactive la touche echap dans lazygit
+mettre des shortcuts &é"' sur lazygit
+mettre un search and replace general
+créé un raccourci pour ouvrir le repertoire dans vscode
+lazygit qui utilise l'ide nvim
+lazygit qui peut ouvrir les fichiers dans l'ide nvim
+graph sur lazygit
+jq
+exclure des fichiers de copilot
+fix codecompanion (CodeCompanion -> inline)
+fix le raccourci alt 3 avec tree
+fix le menu raccourci (il doit utiliser que le menu actuel)
+lorsqu'on ouvre un projet, tous les buffers doivent être fermés
